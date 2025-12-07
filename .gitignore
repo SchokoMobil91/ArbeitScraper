@@ -1,0 +1,29 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+tmp/
+
+# Go
+backend/bin/
+backend/*.exe
+backend/*.out
+backend/tmp/
+go.sum
+
+# Environment
+.env*
+*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
